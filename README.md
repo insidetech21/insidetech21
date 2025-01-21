@@ -1,29 +1,10 @@
-## Hi there 👋
+### Hi there I am Vasant Basutkar 👋
 
-<!--
-**insidetech21/insidetech21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-// ### Hi there I am Vasant Basutkar 👋
-
-Hi there! 👋 I’m Vasant Basutkar, an Mobile App Devloper with over 3 years of experience specializing in Android and Flutter development. I am passionate about building high-quality mobile applications, solving real-world problems, and creating scalable software solutions. With a strong foundation in computer science, I excel in cross-platform development, app lifecycle management, and API integration.
+Hi there! 👋 I’m Vasant Basutkar, a Mobile App Developer with over 3 years of experience specializing in Android and Flutter development. I am passionate about building high-quality mobile applications, solving real-world problems, and creating scalable software solutions. With a strong foundation in computer science, I excel in cross-platform development, app lifecycle management, and API integration.
 
 - 🌍 Based in Pune, Maharashtra, India.
-- 📧 Reach me at: vasant.basutkar01@gmail.com
-- 🔗 Connect with me: <herf to = "https://www.linkedin.com/in/vasant-basutkar-a0854513b/"> LinkedIn</href>|<herf to = "https://github.com/insidetech21">GitHub</href> 
-
+- 📧 Reach me at: [vasant.basutkar01@gmail.com](mailto:vasant.basutkar01@gmail.com)
+- 🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/vasant-basutkar-a0854513b/) | [GitHub](https://github.com/insidetech21)
 
 ## Headlines
 
@@ -34,8 +15,9 @@ Hi there! 👋 I’m Vasant Basutkar, an Mobile App Devloper with over 3 years o
 
 ## Languages & Tech Stack
 
-Programming Languages:
+**Programming Languages:**
 - Java, Dart, Kotlin, C#
+
 
 <p align='center'>
     <img height="60" src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png">&nbsp;&nbsp;
