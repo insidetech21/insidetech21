@@ -58,4 +58,4 @@ Hi there! 👋 I’m Vasant Basutkar, a Mobile App Developer with over 3 years o
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalBari5557&theme=tokyonight" alt="raojipatil" style="width:400px;"  /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=insidetech21&theme=dark" alt="GitHub Streak" /></a>
