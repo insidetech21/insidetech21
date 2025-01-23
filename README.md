@@ -1,4 +1,4 @@
-### Hi there I am Vasant Basutkar 👋
+### Hi there👋
 
 Hi there! 👋 I’m Vasant Basutkar, a Mobile App Developer with over 3 years of experience specializing in Android and Flutter development. I am passionate about building high-quality mobile applications, solving real-world problems, and creating scalable software solutions. With a strong foundation in computer science, I excel in cross-platform development, app lifecycle management, and API integration.
 
