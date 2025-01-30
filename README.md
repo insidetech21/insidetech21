@@ -41,22 +41,12 @@ With a strong foundation in **computer science**, I excel in **cross-platform de
 
 ---
 
-## 📊 **GitHub Stats**  
+## 📊 **GitHub Status**  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=insidetech21&show_icons=true&locale=en&theme=dracula" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=insidetech21&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Top Languages" />
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=insidetech21&theme=tokyo-night" alt="GitHub Activity Graph" />
-</div>
-
-
-## GitHub Status
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=insidetech21&show_icons=true&locale=en&theme=dracula" alt="insidetech21"  style="width:400px;" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=insidetech21&show_icons=true&locale=en&layout=compact&theme=dracula" alt="insidetech21" style="width:400px;" /></p>   
-
-<p><img src="https://github-readme-activity-graph.vercel.app/graph?username=insidetech21&theme=tokyo-night" alt="GitHub Activity Graph" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=insidetech21&show_icons=true&locale=en&layout=compact&theme=dracula" alt="insidetech21" style="width:400px;" /></p> 
+ <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=insidetech21&theme=tokyo-night" alt="GitHub Activity Graph" />
 
 
 
