@@ -1,43 +1,55 @@
-### Hi there👋
+### Hi there 👋  
 
-Hi there! 👋 I’m Vasant Basutkar, a Mobile App Developer with over 3 years of experience specializing in Android and Flutter development. I am passionate about building high-quality mobile applications, solving real-world problems, and creating scalable software solutions. With a strong foundation in computer science, I excel in cross-platform development, app lifecycle management, and API integration.
+Hi there! 👋 I’m **Vasant Basutkar**, a **Mobile App Developer** with **3+ years** of experience specializing in **Android and Flutter** development. I am passionate about building **high-quality mobile applications**, solving real-world problems, and creating **scalable software solutions**.  
 
-- 🌍 Based in Pune, Maharashtra, India.  
-- 📧 Reach me at: [vasant.basutkar01@gmail.com](mailto:vasant.basutkar01@gmail.com)  
-- 🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/vasant-basutkar-a0854513b/) | [GitHub](https://github.com/insidetech21)  
+With a strong foundation in **computer science**, I excel in **cross-platform development, app lifecycle management, and API integration**.  
+
+- 🌍 **Based in:** Pune, Maharashtra, India  
+- 📧 **Email:** [vasant.basutkar01@gmail.com](mailto:vasant.basutkar01@gmail.com)  
+- 🔗 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/vasant-basutkar-a0854513b/) | [GitHub](https://github.com/insidetech21)  
 
 ---
 
-## **Headlines**
+## 🚀 **Headlines**  
 
 - 📱 **App Developer | Android & Flutter Specialist**  
-- 🚀 **Experienced in Cross-Platform Development and API Integration**  
-- 🎯 **Focused on Delivering Scalable and Robust Software Solutions**  
-- 📊 **Skilled in RFID & MDM Integrations for Enterprise Solutions**  
+- ⚡ **Expert in Cross-Platform Development & API Integration**  
+- 🎯 **Building Scalable & Robust Software Solutions**  
+- 🔥 **Experience with RFID & MDM Integrations for Enterprise Solutions**  
 
 ---
 
-## **Languages & Tech Stack**
+## 🛠 **Languages & Tech Stack**  
 
 ### **Programming Languages:**  
-- Java, Dart, Kotlin, C#
+- **Java**, **Dart**, **Kotlin**, **C#**  
 
 ### **Mobile App Development:**  
-- Android Studio, Flutter, XML, Material UI
+- **Android Studio**, **Flutter**, **XML**, **Material UI**  
 
 ### **Backend & API Tools:**  
-- Firebase Firestore, Postman, Retrofit
+- **Firebase Firestore**, **Postman**, **Retrofit**  
 
 ### **Development Tools:**  
-- Git, Bitbucket, JIRA, SAP UI5
+- **Git**, **Bitbucket**, **JIRA**, **SAP UI5**  
 
 ### **SDKs & Frameworks:**  
-- Zebra RFID SDK, RealWear HMT-1 SDK, TeamViewer Assist AR SDK
+- **Zebra RFID SDK**, **RealWear HMT-1 SDK**, **TeamViewer Assist AR SDK**  
 
 ### **Database:**  
-- SQLite, Firebase
+- **SQLite**, **Firebase**  
 
+---
 
+## 📊 **GitHub Stats**  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=insidetech21&show_icons=true&locale=en&theme=dracula" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=insidetech21&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Top Languages" />
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=insidetech21&theme=tokyo-night" alt="GitHub Activity Graph" />
+</div>
 
 
 ## GitHub Status
