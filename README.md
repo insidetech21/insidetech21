@@ -43,18 +43,28 @@ With a strong foundation in **computer science**, I excel in **cross-platform de
 
 ## 📊 **GitHub Status**  
 
+### 🏆 GitHub Trophies  
 <p><img src="https://github-profile-trophy.vercel.app/?username=insidetech21&theme=dracula&margin-w=15&margin-h=15" alt="GitHub Profile Trophies" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=insidetech21&show_icons=true&locale=en&theme=dracula" alt="insidetech21"  style="width:400px;" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=insidetech21&show_icons=true&locale=en&layout=compact&theme=dracula" alt="insidetech21" style="width:400px;" /></p> 
- <br>
-<img src="https://github-readme-metrics.vercel.app/api?username=insidetech21&theme=tokyonight" alt="GitHub Metrics" />
+### 📈 GitHub Stats  
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=insidetech21&show_icons=true&locale=en&theme=dracula" alt="GitHub Stats" style="width:400px;" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=insidetech21&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Top Languages" style="width:400px;" />
+</p>  
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/insidetech21/insidetech21/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/insidetech21/insidetech21/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake animation" src="https://github.com/insidetech21/insidetech21/blob/output/github-contribution-grid-snake.svg">
-</picture>
+### 📊 GitHub Metrics  
+<p><img src="https://github-readme-metrics.vercel.app/api?username=insidetech21&theme=tokyonight" alt="GitHub Metrics" /></p>
+
+### 🐍 Contribution Snake Animation  
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/insidetech21/insidetech21/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/insidetech21/insidetech21/blob/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://github.com/insidetech21/insidetech21/blob/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+
 
 
 
