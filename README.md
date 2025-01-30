@@ -59,11 +59,7 @@ With a strong foundation in **computer science**, I excel in **cross-platform de
 
 ### 🐍 Contribution Snake Animation  
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/insidetech21/insidetech21/blob/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/insidetech21/insidetech21/blob/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://github.com/insidetech21/insidetech21/blob/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://github.com/insidetech21/insidetech21/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 
