@@ -39,10 +39,13 @@ Hi there! 👋 I’m Vasant Basutkar, a Mobile App Developer with over 3 years o
 
 
 
+
 ## GitHub Status
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=insidetech21&show_icons=true&locale=en&theme=dracula" alt="insidetech21"  style="width:400px;" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=insidetech21&show_icons=true&locale=en&layout=compact&theme=dracula" alt="insidetech21" style="width:400px;" /></p>   
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=insidetech21&show_icons=true&locale=en&theme=dracula" alt="insidetech21" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=insidetech21&show_icons=true&locale=en&layout=compact&theme=dracula" alt="insidetech21" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=insidetech21&theme=tokyonight" alt="insidetech21" />
+</div>
 
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=insidetech21&theme=tokyonight" alt="insidetech21" style="width:400px;"  /></p>
