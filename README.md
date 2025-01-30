@@ -53,7 +53,9 @@ With a strong foundation in **computer science**, I excel in **cross-platform de
 </p>  
 
 ### 📊 GitHub Metrics  
-<p><img src="https://github-readme-metrics.vercel.app/api?username=insidetech21&theme=tokyonight" alt="GitHub Metrics" /></p>
+<p align="center">
+  <img src="https://metrics.lecoq.io/insidetech21?template=classic&config.timezone=Asia%2FKolkata" alt="GitHub Metrics" />
+</p>
 
 ### 🐍 Contribution Snake Animation  
 <p align="center">
