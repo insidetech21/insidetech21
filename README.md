@@ -53,10 +53,7 @@ With a strong foundation in **computer science**, I excel in **cross-platform de
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=insidetech21&show_icons=true&locale=en&theme=dracula" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=insidetech21&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Top Languages" />
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=insidetech21&theme=github" alt="GitHub Contributions Heatmap" />
+ 
   <br>
   <img src="https://github-profile-trophy.vercel.app/?username=insidetech21&theme=dracula&margin-w=15&margin-h=15" alt="GitHub Trophies" />
   <br>
