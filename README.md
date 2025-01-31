@@ -62,6 +62,8 @@ With a strong foundation in **computer science**, I excel in **cross-platform de
   <img src="https://github.com/insidetech21/insidetech21/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
+<p><img src="https://github-readme-activity-graph.vercel.app/graph?username=insidetech21&theme=github" alt="GitHub Contributions Heatmap" /></p>
+
 
 
 
