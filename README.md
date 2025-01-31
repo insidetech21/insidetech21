@@ -52,15 +52,9 @@ With a strong foundation in **computer science**, I excel in **cross-platform de
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=insidetech21&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Top Languages" style="width:400px;" />
 </p>  
 
-### 📊 GitHub Metrics  
-<p><img src="https://github-readme-metrics.vercel.app/api?username=insidetech21&theme=tokyonight" alt="GitHub Metrics" /></p>
-
-### 🐍 Contribution Snake Animation  
-<p align="center">
-  <img src="https://github.com/insidetech21/insidetech21/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=insidetech21&theme=tokyo-night" alt="GitHub Contributions Heatmap" />
 </p>
-
-<p><img src="https://github-readme-activity-graph.vercel.app/graph?username=insidetech21&theme=tokyo-night" alt="GitHub Contributions Heatmap" /></p>
 
 
 
