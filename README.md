@@ -5,8 +5,23 @@ Hi there! 👋 I’m **Vasant Basutkar**, a **Mobile App Developer** with **3+ y
 With a strong foundation in **computer science**, I excel in **cross-platform development, app lifecycle management, and API integration**.  
 
 - 🌍 **Based in:** Pune, Maharashtra, India  
-- 📧 **Email:** [vasant.basutkar01@gmail.com](mailto:vasant.basutkar01@gmail.com)  
-- 🔗 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/vasant-basutkar-a0854513b/) | [GitHub](https://github.com/insidetech21)  
+- 📧 **Email:** [vasant.basutkar01@gmail.com](mailto:vasant.basutkar01@gmail.com)
+  
+  <a href="https://www.linkedin.com/in/vasant-basutkar-a0854513b/" target="_blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="30" width="30" />
+  </a>
+  <a href="https://github.com/insidetech21" target="_blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" height="30" width="30" />
+  </a>
+  <a href="https://www.instagram.com/inside_tech21/?igsh=MWlkczZkc3VrOGQwNw%3D%3D#" target="_blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" height="30" width="30" />
+  </a>
+
+
+
+
+
+
 
 ---
 
